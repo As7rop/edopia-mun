@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Edopia MUN 2026",
+  "description": "The official web portal and dynamic delegate registration dashboard for Edopia Model United Nations 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
